@@ -1,0 +1,35 @@
+
+/* Custom Scrollbar for WebKit Browsers (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 18px; /* Scrollbar width */
+}
+
+::-webkit-scrollbar-track {
+  background: #1e1e1e; /* Dark gray track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, rgb(0, 0, 0), rgb(0, 0, 0)); /* Gold gradient */
+  border-radius: 12px; /* Rounded corners */
+  border: 2px solid #1e1e1e; /* Add a border for a separated effect */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, rgb(12, 11, 2), rgb(0, 0, 0)); /* Brighter gold on hover */
+  border: 2px solid rgb(0, 0, 0); /* Change border color on hover */
+}
+ 
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  /* background: linear-gradient(180deg, rgba(61, 54, 14, 0.836) 3%, rgb(66, 62, 22) 40%); */
+  background: linear-gradient(to top, #09203f 0%, #537895 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.App {
+  text-align: center;
+}

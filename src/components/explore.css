@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat+Subrayada:wght@400;700&family=Poppins:wght@400;600;700&display=swap');
+/* Main container for the entire page */
+
+:root{
+    --bg-url: 'url(../../public/images/44ef23b2-bc9e-4525-8f7f-63a3717fc5ef.webp)';
+}
+
+.explore-container {
+  /* background-image: url(../../public/images/asd.png);
+  background-repeat: no-repeat;
+  background-size: cover; */
+  
+  padding: 40px;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #333;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+/* Title: KEY EVENTS */
+.explore-t1 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: rgb(194, 158, 112, 0.9);
+  text-transform: uppercase;
+}
+
+/* Subtitle: Explore Egypt's Rich Heritage... */
+.explore-title {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: rgb(194, 158, 112, 0.9);
+}
+
+/* Flex container for the events */
+.explore-events {
+  display: flex; /* Flexbox for horizontal layout */
+  flex-wrap: wrap; /* Wrap items to the next line if they overflow */
+  justify-content: center; /* Center items horizontally */
+  gap: 20px; /* Space between items */
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Individual event cards */
+.explore-events > div {
+  display: flex;
+  flex-direction: column; /* Stack image, title, and button vertically */
+  align-items: center; /* Center content horizontally */
+  text-align: center;
+  width: 300px; /* Fixed width for consistency */
+  background-color: rgb(194, 158, 112, 0.9);
+  box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 10px; /* Rounded corners */
+  overflow: hidden; /* Prevent content from overflowing the card */
+  padding-bottom: 2rem;
+}
+
+/* Images in the cards */
+.explore-image {
+  box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.3);
+  border-style: ;
+  width: 100%; /* Make the image fit the card width */
+  border-radius: 10px;
+}
+
+/* Event title */
+.event-title {
+  
+  margin-top: 15px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  font-family: 'Montserrat Alternates', sans-serif;
+  padding-left: 1rem;
+}
+
+.event-subtitle {
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+/* Button styles */
+.btn{
+
+  /* set the button to be at the end of the card */
+
+}
+
+button {
+  box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.3);
+  align-items: right;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-family: 'Montserrat Subrayada', sans-serif; /* Font for button text */
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #555;
+  transform: scale(1.05);
+}
+
+
+ 
+.btn:hover .btn-slide-show-text1 {
+  margin-left: 65px;
+} 
+ 
+.btn-rect-to-round {
+  height: 55px;
+  width: 200px;
+  font-size: 16px;
+  font-weight: 600;
+  background: transparent;
+  cursor: pointer;
+  transition: 0.5s ease-in;
+} 
+ 
+.btn-rect-to-round:hover {
+  border-radius: 60px;
+  color: rgb(255, 255, 255) !important;
+} 
+ 
+.btn-rect-to-round--black {
+  border: 2px solid rgb(51, 51, 51);
+  color: rgb(51, 51, 51) !important;
+} 
+ 
+.btn-rect-to-round--black:hover {
+  border-color: rgb(51, 51, 51);
+  background: rgb(51, 51, 51);
+} 
+ 

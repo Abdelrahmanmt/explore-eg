@@ -1,0 +1,950 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 329,
+      "max": [
+        163.6131134033203,
+        54.38097381591797,
+        120.39665222167969
+      ],
+      "min": [
+        82.32381439208984,
+        -0.07993542402982712,
+        52.782920837402344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3948,
+      "componentType": 5126,
+      "count": 329,
+      "max": [
+        0.983832597732544,
+        0.9537867307662964,
+        0.9988806843757629
+      ],
+      "min": [
+        -0.998936116695404,
+        -0.9927878975868225,
+        -0.9983684420585632
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 329,
+      "max": [
+        1.5285121202468872,
+        1.5732243061065674
+      ],
+      "min": [
+        -1.6868274211883545,
+        -0.7283854484558105
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 387,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7896,
+      "componentType": 5126,
+      "count": 274,
+      "max": [
+        164.01490783691406,
+        71.03307342529297,
+        120.58089447021484
+      ],
+      "min": [
+        81.5261459350586,
+        28.728050231933594,
+        65.25800323486328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11184,
+      "componentType": 5126,
+      "count": 274,
+      "max": [
+        0.9797872304916382,
+        0.9902439713478088,
+        0.998996376991272
+      ],
+      "min": [
+        -0.9887133240699768,
+        -0.49712812900543213,
+        -0.812988817691803
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2632,
+      "componentType": 5126,
+      "count": 274,
+      "max": [
+        0.9643762707710266,
+        0.9469693303108215
+      ],
+      "min": [
+        0.04058963060379028,
+        0.48976391553878784
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1548,
+      "componentType": 5125,
+      "count": 654,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14472,
+      "componentType": 5126,
+      "count": 415,
+      "max": [
+        126.90434265136719,
+        6.7328410148620605,
+        70.45532989501953
+      ],
+      "min": [
+        116.97391510009766,
+        -11.894562721252441,
+        36.19353103637695
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 19452,
+      "componentType": 5126,
+      "count": 415,
+      "max": [
+        0.9999637007713318,
+        0.9531328082084656,
+        0.8927769064903259
+      ],
+      "min": [
+        -0.9983301162719727,
+        -0.9964430332183838,
+        -0.9940683841705322
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4824,
+      "componentType": 5126,
+      "count": 415,
+      "max": [
+        0.4609431028366089,
+        0.533051609992981
+      ],
+      "min": [
+        0.3569593131542206,
+        0.2331480234861374
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4164,
+      "componentType": 5125,
+      "count": 1086,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24432,
+      "componentType": 5126,
+      "count": 934,
+      "max": [
+        144.96475219726563,
+        31.958709716796875,
+        97.77552795410156
+      ],
+      "min": [
+        81.5261459350586,
+        16.766559600830078,
+        65.65473175048828
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 35640,
+      "componentType": 5126,
+      "count": 934,
+      "max": [
+        0.99998539686203,
+        0.9945317506790161,
+        0.9999976754188538
+      ],
+      "min": [
+        -0.99998539686203,
+        -0.9811204075813293,
+        -0.999194860458374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8144,
+      "componentType": 5126,
+      "count": 934,
+      "max": [
+        0.6382014155387878,
+        0.7622551918029785
+      ],
+      "min": [
+        0.0006061655003577471,
+        0.4932278096675873
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8508,
+      "componentType": 5125,
+      "count": 2052,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46848,
+      "componentType": 5126,
+      "count": 5631,
+      "max": [
+        164.18331909179688,
+        43.4833869934082,
+        123.77586364746094
+      ],
+      "min": [
+        81.5261459350586,
+        -1.8245737552642822,
+        8.620656967163086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 114420,
+      "componentType": 5126,
+      "count": 5631,
+      "max": [
+        0.9997235536575317,
+        0.9922357201576233,
+        0.9999704360961914
+      ],
+      "min": [
+        -1.0,
+        -0.9999811053276062,
+        -0.9997348785400391
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15616,
+      "componentType": 5126,
+      "count": 5631,
+      "max": [
+        0.4223990738391876,
+        0.9802466034889221
+      ],
+      "min": [
+        -0.0006120387697592378,
+        0.01554320752620697
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16716,
+      "componentType": 5125,
+      "count": 15213,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 181992,
+      "componentType": 5126,
+      "count": 203,
+      "max": [
+        164.01490783691406,
+        43.4833869934082,
+        121.16927337646484
+      ],
+      "min": [
+        85.80252838134766,
+        3.186082601547241,
+        62.090328216552734
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 184428,
+      "componentType": 5126,
+      "count": 203,
+      "max": [
+        0.6873015761375427,
+        0.4287712872028351,
+        0.9985203742980957
+      ],
+      "min": [
+        -0.3857923448085785,
+        -0.9811146855354309,
+        -0.9983684420585632
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60664,
+      "componentType": 5126,
+      "count": 203,
+      "max": [
+        0.8298578262329102,
+        0.9584100842475891
+      ],
+      "min": [
+        0.04359638690948486,
+        0.46348103880882263
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 77568,
+      "componentType": 5125,
+      "count": 573,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "amirfiala1 (https://sketchfab.com/amirfiala1)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/tutankhamun-gold-mask-992c57047cdf4412b970ad798d5ad0c9",
+      "title": "Tutankhamun Gold Mask"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 79860,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62288,
+      "byteOffset": 79860,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 186864,
+      "byteOffset": 142148,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 329012,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/tut_mask_back_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/tutmask_bearded_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/tutmask_bigears_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/tutmask_front_and_side_no_beard_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/tutmask_front_no_beard_ears_or_snake_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Default_150150150",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.588235,
+          0.588235,
+          0.588235,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "tut_mask_back",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "tutmask_bearded",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "tutmask_bigears",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "tutmask_front_and_side_no_beard",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "tutmask_front_no_beard_ears_or_snake",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Default 150:150:150_Default 150:150:150_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tut mask back_tut mask back_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tutmask bearded_tutmask bearded_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tutmask bigears_tutmask bigears_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tutmask front and side no beard_tutmask front and side no beard_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tutmask front no beard ears or snake_tutmask front no beard ears or snake_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "d834e9b6c0d5452d96bfa827e3ba159f.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -5.2557882934678446e-08,
+        -0.17760717676885346,
+        -0.9841014636510781,
+        0.0,
+        1.7574579565249326e-07,
+        0.9841014636510628,
+        -0.17760717676886004,
+        0.0,
+        0.9999999999999831,
+        -1.8228635192962805e-07,
+        -2.050857483837376e-08,
+        0.0,
+        1.7351336282445118e-05,
+        112.98951721191406,
+        396.3158874511719,
+        1.0
+      ],
+      "name": "Active Camera"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.19183087101611096,
+        0.9783860053922409,
+        -0.07721231364111736,
+        0.0,
+        0.014856010214077064,
+        0.07576965314910455,
+        0.9970146732231093,
+        0.0,
+        0.9813155536756357,
+        -0.19240526010033737,
+        4.6070764092576155e-08,
+        0.0,
+        -57.878135681152344,
+        -171.15643310546875,
+        17.882339477539063,
+        1.0
+      ],
+      "name": "sketchup camera"
+    },
+    {
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Default"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.9997509217307063,
+        -0.009574612014239403,
+        -0.020159893436717105,
+        0.0,
+        -0.02065373771384839,
+        -0.05463602418992419,
+        -0.9982927065641446,
+        0.0,
+        0.008456808916521862,
+        0.9984604306959263,
+        -0.05482016706883175,
+        0.0,
+        -122.62577819824219,
+        -1.18984055519104,
+        35.504051208496094,
+        1.0
+      ],
+      "name": "TUTANKHAMUN+mask+model"
+    },
+    {
+      "children": [
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        8.673617379884037e-19,
+        0.0,
+        -6.018531076210115e-36,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -8.673617379884037e-19,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Layer0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Default 150:150:150"
+    },
+    {
+      "mesh": 0,
+      "name": "Default 150:150:150_Default 150:150:150_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tut mask back"
+    },
+    {
+      "mesh": 1,
+      "name": "tut mask back_tut mask back_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tutmask bearded"
+    },
+    {
+      "mesh": 2,
+      "name": "tutmask bearded_tutmask bearded_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tutmask bigears"
+    },
+    {
+      "mesh": 3,
+      "name": "tutmask bigears_tutmask bigears_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tutmask front and side no beard"
+    },
+    {
+      "mesh": 4,
+      "name": "tutmask front and side no beard_tutmask front and side no beard_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        2.818925648462312e-18,
+        0.0,
+        -1.9560225997682872e-35,
+        1.0,
+        6.93889390390723e-18,
+        0.0,
+        -2.818925648462312e-18,
+        -6.93889390390723e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "tutmask front no beard ears or snake"
+    },
+    {
+      "mesh": 5,
+      "name": "tutmask front no beard ears or snake_tutmask front no beard ears or snake_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}

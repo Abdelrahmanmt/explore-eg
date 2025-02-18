@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tutankhamun's Meteoric Dagger 1323 BCE
+* source:	https://sketchfab.com/3d-models/tutankhamuns-meteoric-dagger-1323-bce-505fdc27fc1a4fcaa0e2239fb4b36f99
+* author:	Tom_Bentkowski (https://sketchfab.com/TBentkowski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tutankhamun's Meteoric Dagger 1323 BCE" (https://sketchfab.com/3d-models/tutankhamuns-meteoric-dagger-1323-bce-505fdc27fc1a4fcaa0e2239fb4b36f99) by Tom_Bentkowski (https://sketchfab.com/TBentkowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

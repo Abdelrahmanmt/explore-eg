@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giza Plateau - drone video
+* source:	https://sketchfab.com/3d-models/giza-plateau-drone-video-20fa1b7c608a43e1814c3744641732a4
+* author:	gabriele.l (https://sketchfab.com/gabriele.l)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giza Plateau - drone video" (https://sketchfab.com/3d-models/giza-plateau-drone-video-20fa1b7c608a43e1814c3744641732a4) by gabriele.l (https://sketchfab.com/gabriele.l) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

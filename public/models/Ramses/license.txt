@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ramsès II Egyptian statue - Louvre
+* source:	https://sketchfab.com/3d-models/ramses-ii-egyptian-statue-louvre-94de28f4890e4cfab99fad8c31c72bae
+* author:	Luis 3D (https://sketchfab.com/luism3D)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ramsès II Egyptian statue - Louvre" (https://sketchfab.com/3d-models/ramses-ii-egyptian-statue-louvre-94de28f4890e4cfab99fad8c31c72bae) by Luis 3D (https://sketchfab.com/luism3D) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

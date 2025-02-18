@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tutankhamun Gold Mask
+* source:	https://sketchfab.com/3d-models/tutankhamun-gold-mask-992c57047cdf4412b970ad798d5ad0c9
+* author:	amirfiala1 (https://sketchfab.com/amirfiala1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tutankhamun Gold Mask" (https://sketchfab.com/3d-models/tutankhamun-gold-mask-992c57047cdf4412b970ad798d5ad0c9) by amirfiala1 (https://sketchfab.com/amirfiala1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
