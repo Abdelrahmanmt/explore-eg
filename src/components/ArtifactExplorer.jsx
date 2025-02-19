@@ -10,19 +10,19 @@ const models = [
     name: "Tutankhamun's Mask",
     file: "/models/tut/scene.gltf",
     description: "The iconic golden death mask of Tutankhamun, symbolizing ancient Egyptian craftsmanship.",
-    video: "nVid/king toutankhanamon.mp4",
+    video: "/nVid/ramsesVid.mp4",
   },
   {
     name: "Ramses II Statue",
     file: "/models/ramses/scene.gltf",
     description: "A colossal statue of Ramses II, one of the most powerful pharaohs of ancient Egypt.",
-    video: "nVid/Ramsis II.mp4",
+    video: "nVid/ramsesVid.mp4",
   },
   {
     name: "Thutmose III Statue",
     file: "/models/Nefertiti/scene.gltf",
     description: "A detailed statue of Thutmose III, often called the 'Napoleon of Egypt'.",
-    video: "nVid/King Thutmose III.mp4",
+    video: "nVid/King-Thutmose-III-unscreen.gif",
   },
   {
     name: "Great Pyramid of Giza",
